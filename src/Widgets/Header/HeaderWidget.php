@@ -1,11 +1,11 @@
 <?php
 
-namespace Waldorfshop4\Widgets\Header;
+namespace Mogli5\Widgets\Header;
 
 use Ceres\Widgets\Helper\BaseWidget;
 
 class HeaderWidget extends BaseWidget
 {
 
-    protected $template = "Waldorfshop4::Widgets.Header.HeaderWidget";
+    protected $template = "Mogli5::Widgets.Header.HeaderWidget";
 }
